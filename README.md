@@ -1,5 +1,4 @@
 -  Hi, I’m @Ebukagideon
 -  I’m interested in building software applications to make life easy.
 -  I’m currently learning typescript .
-- You can Reach me at gideonebuka6@gmail.com .
 - Fun fact: i love to code 
